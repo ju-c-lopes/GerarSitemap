@@ -9,4 +9,6 @@ o script itera sobre as linhas e colunas e forma as tags inserindo-as dentro do 
 * Segue abaixo a imagem de uma execução deste script como exemplo<br>
 ![Planilha Sheets](https://i.imgur.com/p03nRjx.png)
 
+(OBS) Código a ser usado no AppScript do Google ![AppScript](https://www.google.com/script/start/)
+
 &reg; <i>Juliano Lopes</i>
